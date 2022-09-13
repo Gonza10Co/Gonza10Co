@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Gonzalo
+#### Full Stack Web Developer
+![Full Stack Web Developer](https://images.unsplash.com/photo-1488229297570-58520851e868?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2369&q=80)
 
-<!--
-**Gonza10Co/Gonza10Co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Expert in learning. Full Stack Web Developer, MBA in Finance and Civil Engineer. Passionate about programming!!! 👨🏻‍💻
 
-Here are some ideas to get you started:
+Ability to develop, innovate and optimize processes and products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Advanced knowledge in JavaScript, NodeJS, React, Redux, SQL, Algorithmic Trading (MQL4), HTML, CSS, Tailwind, Express, Postgres, Sequelize, Figma, Scrum, among others.
+
+Skills: REACT / REDUX / JS / HTML / CSS / SQL / EXPRESS / POSTGRES / SEQUELIZE / FIGMA
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
