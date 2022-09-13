@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://i.ibb.co/b7RK45Y/markus-spiske-FXFz-s-W0uwo-unsplash-1.jpg)
+![Full Stack Web Developer](https://i.ibb.co/FHs2BYW/markus-spiske-FXFz-s-W0uwo-unsplash-2.jpg)
 
 Expert in learning. Full Stack Web Developer, MBA in Finance and Civil Engineer. Passionate about programming!!! 👨🏻‍💻
 
