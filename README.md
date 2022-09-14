@@ -8,6 +8,11 @@ Advanced knowledge in JavaScript, NodeJS, React, Redux, SQL, Algorithmic Trading
 
 Skills: REACT / REDUX / JS / HTML / CSS / SQL / EXPRESS / POSTGRES / SEQUELIZE / FIGMA
 
+Contact: 
++57 317 637 9339 (whatsapp only) 
+gonzalo_correa_g@hotmail.com
+LinkedIn: https://www.linkedin.com/in/gonzalo-correa-g/
+
 - 🔭 I’m currently working on this page. 
 
 
